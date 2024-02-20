@@ -1,6 +1,6 @@
 
 <h2>Sleep Issues</h2>
-If you encounter isssues with the system not entering sleep mode or not waking from sleep check the following settings in the bios menu.
+<p>If you encounter isssues with the system not entering sleep mode or not waking from sleep check the following settings in the bios menu.</p>
 <ul>
     <li>
         Sleep mode currently does not work under Linux on any bios version above 310, you can downgrade the bios version if necessary, download the 310 bios from <a
