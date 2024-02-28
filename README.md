@@ -20,4 +20,4 @@ and extract the zip file to "/boot/efi" so it can be accessed in the bios menu t
 <br>
 <br>
 
->These scripts should work on any asus laptop that asusctl supports, pwr.cycle also requires "notify-send".
+>These scripts should work on any asus laptop that asusctl supports, pwr.cycle also requires the notify-send command.
