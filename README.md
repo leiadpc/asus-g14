@@ -1,16 +1,6 @@
 
-<h2>Sleep Issues</h2>
-<p>If you encounter isssues with the system not entering sleep mode or not waking from sleep check the following settings in the bios menu.</p>
-<ul>
-    <li>
-        Sleep mode currently does not work under Linux on any bios version above 310, you can downgrade the bios version if necessary, download the 310 bios from <a
-herf="https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g14-2023-series/helpdesk_bios/">Asus</a>
-and extract the zip file to "/boot/efi" so it can be accessed in the bios menu then go through the flash process.
-    </li>
-    <li>
-        Make sure "Asus ErP" is disabled in the bios menu
-    </li>
-</ul>
+<h2>GNOME scripts</h2>
+<h4><em>touchpad_toggle.sh</em></h4> Toggles the "Disable Touchpad While Typing" setting 
         
 
 
